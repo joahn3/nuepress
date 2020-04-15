@@ -62,7 +62,7 @@ export default {
   },
 
   sitemap: {
-    hostname: 'https://nuepress.kmr.io',
+    hostname: 'https://chicroumaine.com',
     path: '/sitemap.xml',
     sitemaps: [
       {
